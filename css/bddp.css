@@ -1,0 +1,124 @@
+body {
+	text-align: center;
+	background-size: cover;
+	border-radius: 0px;
+	min-height: 2000px;
+}
+
+h2 {
+	font-size: 48px;
+}
+
+h3 {
+	font-size: 36px;
+}
+
+.container {
+	margin-bottom: 15px;
+}
+
+.row {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin: 0;
+}
+
+.jumbotron {
+	margin: 53px 0 0 0;
+}
+
+#headerText{
+	color: white;
+	padding-top: 300px;       
+}
+
+#refurb {
+	overflow: hidden;
+	background: url(../images/photos/CD4.jpg) no-repeat center top;
+	background-size: cover;
+}
+
+#ewaste {
+	overflow: hidden;
+	background: url(../images/photos/CD7.jpg) no-repeat center bottom;
+	background-size: cover;
+}
+
+#index {
+	overflow: hidden;
+	background: url(../images/photos/CD9.jpg) no-repeat center top;
+	background-size: cover;
+}
+
+#literacy {
+	overflow: hidden;
+	background: url(../images/photos/BDDP6.jpg) no-repeat center bottom;
+	background-size: cover;
+}
+
+.navbar{
+	border-radius: 0px;
+	margin: 0;
+}
+
+.pumpkin {
+	background: #D35400;
+}
+
+.carrot {
+	background: #E67E22;
+	margin: 10px;
+	padding-bottom: 10px;
+}
+
+.emerald {
+	background: #2ECC71;
+	color: white;
+	padding-bottom: 20px;
+}
+
+.nephritis {
+	background: #27AE60;
+	margin: 10px;
+	padding-bottom: 20px;
+	color: white;
+}
+
+.orange {
+	background: #F39C12;
+}
+
+.sunflower {
+	background: #F1C40F;
+	margin: 0px 45px 45px 45px;
+	padding-bottom: 20px;
+}
+
+.asphalt {
+	background: #34495e;
+	color: white;
+}
+
+.midnight {
+	background: #F1C40F;
+	margin: 10px;
+	padding-bottom: 20px;
+	color: white;
+}
+
+a {
+cursor: pointer;
+}
+
+ul {
+	padding: 0;
+    margin: 0;
+}
+
+.no-show{
+	list-style-type: none;
+}
+
+.glyphicon{
+	font-size: 150px;    
+}

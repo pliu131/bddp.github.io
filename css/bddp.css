@@ -4,12 +4,16 @@ body {
 	border-radius: 0px;
 }
 
-h2 {
+h1 {
 	font-size: 48px;
 }
 
-h3 {
+h2 {
 	font-size: 36px;
+}
+
+h3 {
+	font-size: 30px;
 }
 
 .container {

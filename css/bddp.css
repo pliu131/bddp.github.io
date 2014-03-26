@@ -50,7 +50,8 @@ h3 {
 #index {
 	height: 100%;
 	overflow: hidden;
-	background: url(http://farm8.staticflickr.com/7455/13428395164_a10d38f946_b.jpg) no-repeat center;
+	background: none;
+	background-color: white;
 	background-size: cover;
 }
 
